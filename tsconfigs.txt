@@ -1,0 +1,4 @@
+"noImplicitAny": false, //
+"noPropertyAccessFromIndexSignature": false, //
+"noUnusedParameters": false, //
+"strictNullChecks": false, //

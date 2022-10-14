@@ -1,4 +1,7 @@
 "noImplicitAny": true, //
+"noImplicitReturns": true, //
+"noImplicitThis": true, //
 "noPropertyAccessFromIndexSignature": true, //
 "noUnusedParameters": true, //
+"strict": true, //
 "strictNullChecks": true, //
